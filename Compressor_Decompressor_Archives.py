@@ -1,7 +1,5 @@
 # Software Name: Compressor-Decompressor-Archives
 # Author: Luca Bocaletto
-# Web Site: https://www.elektronoide.it
-
 # Import necessary libraries
 import tkinter as tk
 from tkinter import ttk, filedialog
