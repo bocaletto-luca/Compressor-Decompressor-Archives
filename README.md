@@ -40,3 +40,13 @@ This software is distributed under an open-source license, but please refer to t
 We welcome contributions from the community. If you'd like to contribute to this project, please submit pull requests or report any issues through the GitHub repository.
 
 Thank you for choosing Compressor-Decompressor-Archives! We hope this application proves useful for managing your compressed and decompressed files.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
